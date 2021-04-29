@@ -5,3 +5,5 @@ updates on the “feed” page. There is also be a “blog” page where users c
 new blog posts and view their previous ones.
 
 I've used HTML and CSS to create the forms and style it. I incorporated a lot of PHP to connect and update databases to save the blogs and comments. 
+
+This is was my first experience with web development during 2019 and was done purely as a learning experience.
