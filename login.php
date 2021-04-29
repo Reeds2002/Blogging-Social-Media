@@ -59,7 +59,7 @@
 		<p>
 			<br/>
 			In this hard day and age it can be difficult for high school students to find time to meet up and relax after a tough day.
-			<b>S.M.I.B.S.</b> is a useful tool for IB students to share their day by blogging or just being able to read about other IB Students.
+			<b>S.M.I.B.S.</b> is a useful tool for students to share their day by blogging or just being able to read about other Students.
 			<br/>
 			<br/>
 			This will remind you that you are not alone and you may be able to learn how others deal with situations and you can use this knowledge in your own life.
